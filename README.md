@@ -3,7 +3,7 @@
 A simple web-based platform where users can report lost & found items, search for them, and retrieve details.
 This is a single-page application built using HTML, CSS, and JavaScript.
 
-* Features
+# Features
 
 ✅ Report Lost & Found Items – Users can submit details like name, description, and location.
 
@@ -11,7 +11,7 @@ This is a single-page application built using HTML, CSS, and JavaScript.
 
 ✅ Single Page App (SPA) – Uses JavaScript to switch between sections (Home, Report, Search).
 
-* Folder Structure
+# Folder Structure
 
 Lost-Found-Tracker
 
@@ -23,7 +23,7 @@ Lost-Found-Tracker
 
 │── README.md        # Documentation
 
-* Technologies Used
+# Technologies Used
 
 HTML → Structuring the web pages.
 
@@ -31,7 +31,7 @@ CSS → Styling & UI design.
 
 JavaScript → Dynamic interactions & LocalStorage management.
 
-* How It Works?
+# How It Works?
   
 1️⃣ Open saniya.html in a browser.
 
@@ -39,7 +39,7 @@ JavaScript → Dynamic interactions & LocalStorage management.
 
 3️⃣ Click "Search" to find items by name, location, or type.
 
-* UI Overview
+# UI Overview
 
 Home Page: Displays all lost & found items.
 
